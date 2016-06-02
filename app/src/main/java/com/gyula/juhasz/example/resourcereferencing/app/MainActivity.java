@@ -1,7 +1,7 @@
 package com.gyula.juhasz.example.resourcereferencing.app;
 
 import com.gyula.juhasz.example.resourcereferencing.R;
-import com.gyula.juhasz.example.resourcereferencing.data.ui.DataFragment;
+import com.gyula.juhasz.example.resourcereferencing.ui.DataFragment;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;

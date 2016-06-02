@@ -1,4 +1,4 @@
-package com.gyula.juhasz.example.resourcereferencing.data.ui;
+package com.gyula.juhasz.example.resourcereferencing.ui;
 
 import com.gyula.juhasz.example.resourcereferencing.data.R;
 
